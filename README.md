@@ -1,3 +1,3 @@
-# bitcoin
+# Bitcoin
 
-Show the price of bitcoin
+## this is just an example
